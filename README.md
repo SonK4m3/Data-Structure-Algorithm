@@ -5,7 +5,13 @@
 	My Process :
 	@ Process DSA
 
-1. DSA Introduction
+1. DSA Introduction: 
+	- What is algorithm?
+	- DS and Types
+	- Why learn algorithms?
+	- Asymptotic Notation
+	- Master Theorem
+	- Divide and Conquer Algorithm
 2. Stack
 3. Normal Queue - Circular Queue
 
