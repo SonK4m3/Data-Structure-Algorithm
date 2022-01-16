@@ -29,3 +29,6 @@
 13. Hash table
 14. Fibonacci Heap
 15. Decrease Key and Delete Node Operations on a Fibonacci Heap
+
+16. Tree Data Structure
+17. Tree Traversal
