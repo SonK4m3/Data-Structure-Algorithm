@@ -32,3 +32,6 @@
 
 16. Tree Data Structure
 17. Tree Traversal
+18. Binary Tree
+19. Full Binary Tree
+20. Balanced Binary Tree
