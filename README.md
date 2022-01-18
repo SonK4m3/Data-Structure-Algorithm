@@ -35,3 +35,6 @@
 18. Binary Tree
 19. Full Binary Tree
 20. Balanced Binary Tree
+
+21. Binary Search Tree
+22. AVL Tree
