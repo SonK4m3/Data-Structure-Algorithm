@@ -38,3 +38,7 @@
 
 21. Binary Search Tree
 22. AVL Tree
+
+23. Graph Data Structure
+24. Spanning tree and Minimum Spanning tree
+25. Strongly connected component
