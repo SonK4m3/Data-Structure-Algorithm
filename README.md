@@ -42,3 +42,4 @@
 23. Graph Data Structure
 24. Spanning tree and Minimum Spanning tree
 25. Strongly connected component
+26. Adjacency Matrix

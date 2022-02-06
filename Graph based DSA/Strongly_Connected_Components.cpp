@@ -12,7 +12,14 @@
 		1. Perform a DFS on the whole graph
 		2. Reverse the original graph
 		3. Perform DFS on the reverse graph
-		
+	
+	- Kosaraju's Algorithm Complexity
+		O(V + E)
+	
+	- Strongly Connected Components Applications:
+		1. Vehicle routing applications
+		2. Maps
+		3. Model-checking in formal verification
 */
 // Kosaraju's Algorithm to find strongly connected components in C++
 #include<iostream>
